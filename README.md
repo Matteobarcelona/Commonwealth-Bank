@@ -18,7 +18,7 @@ Analyse and visualise cyber data to uncover trends and patterns:
 * Install and set up Splunk Enterprise, import the provided dataset and explore it using Splunk.
 * Create a comprehensive dashboard with charts and tables to visualize fraud-related data for submission.
 
-<a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20emails.pdf" target="_blank">Phishing Emails Practice</a>
+<a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Fraud%20Detection%20Dashboard.pdf" target="_blank">Creating a dashboard by categories</a>
 
 
 
