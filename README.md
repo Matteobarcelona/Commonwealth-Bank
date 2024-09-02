@@ -36,9 +36,7 @@ Outline the next steps to be taken as a cyber security analyst, including contai
 Provide a list of actions to contain, resolve, and recover from the incident.
 Describe post-incident activities and measures to prevent similar incidents in the future.
 
-
-
-<a href="https://github.com/Matteobarcelona/Mastercard-Project/blob/main/phishing%20security%20awareness.pptx" target="_blank">Phishing Staff presentation</a>
+<a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/incident%20analysis%20and%20response.pdf" target="_blank">Incident analysis and response behaviour.</a>
 
 ## Task 3 Security awareness:
 
