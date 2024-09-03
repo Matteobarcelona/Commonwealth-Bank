@@ -44,11 +44,14 @@ Gain knowledge about security awareness, including understanding potential cyber
 Learn about creating secure passwords and the importance of password security.
 Understand the Australian Cyber Security Centre (ACSC) guidelines for strong password creation.
 
+
 ### Practice: 
 
 Research ACSC's best practices for secure passwords.
 Design a visually clear and appealing infographic using suitable software (e.g., Canva).
 Create an easy-to-understand PDF infographic for fellow employees, emphasizing password security.
+
+<a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Password%20Security%20Infographic.pdf" target="_blank">Password security tips according to the Australian Cyber Security Centre (ACSC) guidelines.</a>
 
 ## Task 4 Penetration testing:
 
