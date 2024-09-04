@@ -75,7 +75,7 @@ Apply the knowledge gained from the challenge to real-world scenarios and improv
 https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Penetration%20Testing%20Report.pdf
 
 ## Skills:
-
+Password security, Splunk basics, Penetration testing, Detection and Response, Triage, Data visualisation 
  
 
 ## Take away:
