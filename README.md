@@ -3,7 +3,12 @@
 
 
 ## Objective
-
+Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage - September 2024
+Completed a job simulation involving the role of a cybersecurity generalist, specializing in fraud detection and prevention for Commonwealth Bank's Cybersecurity team.
+Developed skills in building data visualization dashboards using Splunk to uncover patterns and insights in historical customer data, aiding in fraud detection.
+Demonstrated the ability to respond effectively to cybersecurity incidents, including notifying relevant teams, collecting information, containing and stopping attacks, and aiding in recovery efforts.
+Enhanced security awareness expertise by designing infographics promoting best practices for secure password management, following Australian Cybersecurity Centre advice.
+Acquired practical experience in penetration testing, assessing the security of web applications, identifying vulnerabilities, and providing recommendations for remediation to bolster cybersecurity defenses.
 
 ## Task 1 Data analysis:
 
@@ -66,9 +71,15 @@ Create an account on HackThisSite and complete all 11 levels of the "Basic" web 
 Document a Penetration Testing Report including an executive summary, scope, vulnerability descriptions, key findings, and security recommendations for each level.
 Apply the knowledge gained from the challenge to real-world scenarios and improve penetration testing skills.
 
+<a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Penetration%20Testing%20Report.pdf" target="_blank">Pentest report from hackthissite.org.</a>
+https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Penetration%20Testing%20Report.pdf
+
 ## Skills:
 
  
 
 ## Take away:
 
+I recently participated in Commonwealth Bank's job simulation on the Forage platform, and it was incredibly useful to understand what it might be like to participate on a Cybersecurity team at Commonwealth Bank.
+I worked on a project to uncover and exploit web application weaknesses via a comprehensive penetration testing report. I practiced using HackThisSite and built my penetration testing skills in a real-world context.
+Doing this program confirmed that I really enjoy working on mitigating and responding to cyber incidents, and I'm excited to apply these skills on a Cybersecurity team at a company like Commonwealth Bank.
