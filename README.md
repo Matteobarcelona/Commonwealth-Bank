@@ -72,7 +72,7 @@ Document a Penetration Testing Report including an executive summary, scope, vul
 Apply the knowledge gained from the challenge to real-world scenarios and improve penetration testing skills.
 
 <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Penetration%20Testing%20Report.pdf" target="_blank">Pentest report from hackthissite.org.</a>
-https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/Penetration%20Testing%20Report.pdf
+
 
 ## Skills:
 Password security, Splunk basics, Penetration testing, Detection and Response, Triage, Data visualisation 
